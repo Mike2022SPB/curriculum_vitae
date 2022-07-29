@@ -1,9 +1,3 @@
-@font-face {
-  font-family: "SourceCodePro-Black";
-  src: url("../fonts/SourceCodePro-Black.ttf");
-  font-style: normal;
-  font-weight: normal;
-}
 
 html {
   font-family: sans-serif; /* 1 */

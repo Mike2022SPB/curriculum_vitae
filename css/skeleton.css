@@ -28,7 +28,20 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+@font-face {
+  font-family: "SourceCodePro-Black";
+  src: url("../fonts/SourceCodePro-Black.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "SourceCodePro-ExtraBold";
+  src: url("../fonts/SourceCodePro-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
 .container {
+  font-family: SourceCodePro-ExtraBold;
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -354,6 +367,7 @@ p,
 ul,
 ol,
 form {
+
   margin-bottom: 2.5rem; }
 
 
