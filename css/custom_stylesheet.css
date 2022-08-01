@@ -2,10 +2,26 @@
   background-color: rgb(193,0,0);
 }
 
-.contacts {
+.border-top {
+  border-top: solid 2px black;
+}
+
+.color-white {
+  color: white;
+}
+
+.padding-top {
+  padding-top: 5%;
+}
+
+.padding_two {
   padding: 2%;
 }
 
 .photo {
   max-width: 100%;
+}
+
+.margin-top {
+  margin-top: 5%;
 }
