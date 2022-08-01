@@ -1,0 +1,11 @@
+.bg-red {
+  background-color: rgb(193,0,0);
+}
+
+.contacts {
+  padding: 2%;
+}
+
+.photo {
+  max-width: 100%;
+}
