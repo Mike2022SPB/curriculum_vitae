@@ -10,6 +10,15 @@
   color: white;
 }
 
+.footer {
+  font-size: 2rem;
+  margin-top: 2%;
+}
+
+.lite-font {
+  font-family: SourceCodePro-Regular;
+}
+
 .padding-top {
   padding-top: 5%;
 }

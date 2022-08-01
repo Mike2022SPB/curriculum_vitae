@@ -29,12 +29,6 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @font-face {
-  font-family: "SourceCodePro-Black";
-  src: url("../fonts/SourceCodePro-Black.ttf");
-  font-style: normal;
-  font-weight: normal;
-}
-@font-face {
   font-family: "SourceCodePro-ExtraBold";
   src: url("../fonts/SourceCodePro-ExtraBold.ttf");
   font-style: normal;
@@ -199,7 +193,7 @@ input[type="button"] {
   text-transform: uppercase;
   text-decoration: none;
   white-space: nowrap;
-  background-color: transparent;
+  background-color: red;
   border-radius: 4px;
   border: 1px solid #bbb;
   cursor: pointer;
