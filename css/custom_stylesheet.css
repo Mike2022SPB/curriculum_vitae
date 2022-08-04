@@ -15,6 +15,10 @@
   margin-top: 2%;
 }
 
+.cairo-font {
+  font-family: Cairo-Light;
+}
+
 .lite-font {
   font-family: SourceCodePro-Regular;
 }

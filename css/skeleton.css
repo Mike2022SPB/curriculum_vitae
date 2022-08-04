@@ -34,6 +34,14 @@
   font-style: normal;
   font-weight: normal;
 }
+
+@font-face {
+  font-family: "Cairo-Light";
+  src: url("../fonts/Cairo-Light.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
 .container {
   font-family: SourceCodePro-ExtraBold;
   position: relative;
