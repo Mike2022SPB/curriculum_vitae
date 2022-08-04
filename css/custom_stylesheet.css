@@ -1,5 +1,5 @@
 .bg-red {
-  background-color: rgb(193,0,0);
+  background-color: rgb(96,0,0);
 }
 
 .border-top {
@@ -46,7 +46,7 @@
 }
 
 .red-link:hover {
-  color: black;
+  color: rgb(96,0,0);
   text-decoration: none
 }
 
