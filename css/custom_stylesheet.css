@@ -6,8 +6,44 @@
   border-top: solid 2px black;
 }
 
+.border-top-dotted {
+  border-top: dotted 2px black;
+}
+
+.border-bottom {
+  border-bottom: solid 2px black;
+}
+
+.button-custom {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button-black {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button-black:hover {
+  background-color: #555555;
+  color: white;
+}
+
 .color-white {
   color: white;
+}
+
+.fixed {
+  position: fixed;
 }
 
 .footer {
