@@ -28,15 +28,8 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@font-face {
-  font-family: "Cairo-Light";
-  src: url("../fonts/Cairo-Light.ttf");
-  font-style: normal;
-  font-weight: normal;
-}
-
 .container {
-  font-family: Cairo-Light;
+  font-family: TimesNewRoman;
   position: relative;
   width: 100%;
   max-width: 1024px;
@@ -142,7 +135,7 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: 2rem;
+  margin-bottom: 5px;
   font-weight: 300; }
 h1 { font-size: 4.0rem; line-height: 1.2;  letter-spacing: -.1rem;}
 h2 { font-size: 3.6rem; line-height: 1.25; letter-spacing: -.1rem; }
@@ -168,11 +161,11 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: white;
+  color: black;
   text-decoration: none
 }
 a:hover {
-  color: white;
+  color: black;
   text-decoration: none
 }
 
@@ -198,7 +191,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: red;
   border-radius: 4px;
-  border: 1px solid white;
+  border: 1px solid black;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -312,10 +305,9 @@ ul ul,
 ul ol,
 ol ol,
 ol ul {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
+  font-size: 100%; }
 li {
-  margin-bottom: 1rem; }
+  margin-bottom: 0rem; }
 
 
 /* Code
